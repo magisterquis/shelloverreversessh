@@ -1,0 +1,5 @@
+key.pub
+bin/*
+.*.swp
+cmd/shelloverreversessh/key
+cmd/shelloverreversessh/key.pub
